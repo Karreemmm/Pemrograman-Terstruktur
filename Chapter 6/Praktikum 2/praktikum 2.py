@@ -5,10 +5,10 @@ def luasSegitiga(a, t):
 
 alas = 10
 tinggi = 20
-
+print('Luas segitiga dg alas', alas, 'dan tinggi', tinggi, 'adalah', luasSegitiga(alas, tinggi) 
 alas = 15
 tinggi = 45
-print('Luas segitiga dg alas', alas, 'dan tinggi', tinggi, 'adalah', luasSegitiga(alas, tinggi) + luasSegitiga(alas, tinggi))
+print('Luas segitiga dg alas', alas, 'dan tinggi', tinggi, 'adalah', luasSegitiga(alas, tinggi) 
 
 print('\n')
 def luasSegitiga2(a, t):
