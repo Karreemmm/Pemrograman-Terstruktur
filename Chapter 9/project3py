@@ -1,0 +1,14 @@
+def starFormation1(n):
+    for i in range(n+1):
+        formasi = '*'*(i*2+1)
+        print(formasi.center(2*n+1))
+
+def starFormation2(n):
+    for i in reversed(range(n-1)):
+        formasi = '*'*(i*2+1)
+        print(formasi.center(2*n-1))
+
+def starFormation(n):
+    starFormation1(3)
+    starFormation2(4)
+starFormation(7)
