@@ -1,5 +1,5 @@
 # PemrogramanTerstruktur
-Script ini dibuat menggunakan bahasa pemrograman Python
+Belajar coding dengan menggunakan bahasa pemrograman Python
 - Nama  : Nabil Makarim
 - NIM   : K3521056
 
