@@ -8,4 +8,4 @@ def diffDate (x) :
 
 y = datetime.date(datetime.now())
 x = date(2021,12,31)
-print('Selisih hari antara tanggal', y, 'dengan', x, 'adalah', diffDate(x), 'hari.')
+print('Selisih hari antara tanggal', y, 'dengan tanggal', x, 'adalah', diffDate(x), 'hari.')
